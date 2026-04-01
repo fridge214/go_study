@@ -1,8 +1,8 @@
-package main
+package grammar
 
 import "fmt"
 
-func variable() {
+func Variable() {
 	// ========================================
 	// 1. 标准格式：var 变量名 变量类型
 	// ========================================
