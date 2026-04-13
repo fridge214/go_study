@@ -1,24 +1,9 @@
 ﻿package main
 
-import grammar "go_study/01_grammar"
+import collector "go_study/02_collector"
 
 func main() {
-	// 01 grammar
-	// grammar.Variable()
-	// grammar.VariableInitialize()
-	// grammar.MultiVariableAssign()
-	// grammar.AnonymousVariable()
-	// grammar.FloatDemo()
-	// grammar.ComplexDemo()
-	// grammar.SinDemo()
-	// grammar.BoolDemo()
-	// grammar.StringDemo()
-	// grammar.ByteDemo()
-	// grammar.TypeTransformDemo()
-	// grammar.PtrDemo()
-	// grammar.ScopeDemo()
-	// grammar.VariableEscapeDemo()
-	// grammar.ConstDemo()
-	// grammar.AliasDemo()
-	grammar.OperatorPriorityDemo()
+	// 02 collector
+	// collector.ArrayDemo()
+	collector.MultiDimensionArrayDemo()
 }
