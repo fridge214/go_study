@@ -19,5 +19,6 @@ func main() {
 	// grammar.ScopeDemo()
 	// grammar.VariableEscapeDemo()
 	// grammar.ConstDemo()
-	grammar.AliasDemo()
+	// grammar.AliasDemo()
+	grammar.OperatorPriorityDemo()
 }
