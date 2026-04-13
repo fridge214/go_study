@@ -8,5 +8,8 @@ func main() {
 	// grammar.VariableInitialize()
 	// grammar.MultiVariableAssign()
 	// grammar.AnonymousVariable()
-	grammar.FloatDemo()
+	// grammar.FloatDemo()
+	// grammar.ComplexDemo()
+	// grammar.SinDemo()
+	grammar.BoolDemo()
 }
