@@ -15,5 +15,9 @@ func main() {
 	// grammar.StringDemo()
 	// grammar.ByteDemo()
 	// grammar.TypeTransformDemo()
-	grammar.PtrDemo()
+	// grammar.PtrDemo()
+	// grammar.ScopeDemo()
+	// grammar.VariableEscapeDemo()
+	// grammar.ConstDemo()
+	grammar.AliasDemo()
 }
