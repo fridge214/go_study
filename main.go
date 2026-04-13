@@ -3,5 +3,8 @@ package main
 import grammar "go_study/01_grammar"
 
 func main() {
-	grammar.Variable()
+	// 01 grammar
+	// grammar.Variable()
+	// grammar.VariableInitialize()
+	grammar.MultiVariableAssign()
 }
