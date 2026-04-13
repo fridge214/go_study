@@ -13,5 +13,7 @@ func main() {
 	// grammar.SinDemo()
 	// grammar.BoolDemo()
 	// grammar.StringDemo()
-	grammar.ByteDemo()
+	// grammar.ByteDemo()
+	// grammar.TypeTransformDemo()
+	grammar.PtrDemo()
 }
