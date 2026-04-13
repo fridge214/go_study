@@ -11,5 +11,7 @@ func main() {
 	// grammar.FloatDemo()
 	// grammar.ComplexDemo()
 	// grammar.SinDemo()
-	grammar.BoolDemo()
+	// grammar.BoolDemo()
+	// grammar.StringDemo()
+	grammar.ByteDemo()
 }
