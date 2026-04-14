@@ -11,5 +11,10 @@ func main() {
 	// collector.CopyDemo()
 	// collector.DelSliceElementDemo()
 	// collector.RangeDemo()
-	collector.MultiDimanesionSliceDemo()
+	// collector.MultiDimanesionSliceDemo()
+	// collector.MapDemo()
+	// collector.MapForDemo()
+	// collector.DeleteMapDemo()
+	// collector.SyncMapDemo()
+	collector.ListDemo()
 }
