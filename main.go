@@ -8,5 +8,8 @@ func main() {
 	// collector.MultiDimensionArrayDemo()
 	// collector.SliceDemo()
 	// collector.AppendDemo()
-	collector.CopyDemo()
+	// collector.CopyDemo()
+	// collector.DelSliceElementDemo()
+	// collector.RangeDemo()
+	collector.MultiDimanesionSliceDemo()
 }
